@@ -1,0 +1,133 @@
+Create a complete, modern, visually appealing personal portfolio website using only HTML and CSS.
+
+I will share my personal details, skills, projects, achievements, and other information below. Use the information I provide to create a portfolio that represents my personality, interests, and professional goals.
+
+### 1. Technical Requirements
+- Use only HTML and CSS.
+- Do not use JavaScript, React, Bootstrap, Tailwind CSS, or any other framework or library.
+- Use semantic HTML elements and clean, well-organized CSS.
+- Make the website fully responsive across mobile phones, tablets, laptops, and desktop screens.
+- Use CSS Flexbox, Grid, media queries, and other standard CSS features wherever appropriate.
+- Keep the code beginner-friendly, readable, and easy to edit.
+
+### 2. Design and Visual Style
+Create a colourful, modern, creative, and professional design that looks attractive without being overly complicated.
+
+The website should include:
+- A beautiful colour palette with complementary colours and subtle gradients.
+- Stylish typography, attractive headings, and readable text.
+- Rounded cards, soft shadows, and smooth CSS hover effects.
+- A clean layout with proper spacing and alignment.
+- Visually appealing buttons and navigation links.
+- Subtle CSS animations and transitions where appropriate.
+
+The overall design should feel like a modern personal portfolio created by a creative first-year computer science student.
+
+### 3. Website Sections
+
+Create the following sections in a single-page portfolio:
+
+1. **Navigation Bar:** My name or logo, links to different sections, and a responsive mobile-friendly navigation layout using only HTML and CSS.
+
+2. **Hero Section:** A welcoming introduction with my name, a short description, a professional headline, and a prominent button to explore my projects.
+
+3. **About Me:** A short introduction about my background, interests, education, and goals, written naturally using the information I provide.
+
+4. **Skills:** Display my technical and non-technical skills using attractive cards, badges, or visual skill indicators.
+
+5. **Projects:** Showcase my projects with project names, descriptions, technologies used, and links if provided. Give each project an attractive card design.
+
+6. **Education:** Display my educational background, college, degree, and other relevant details.
+
+7. **Achievements and Activities:** Highlight my achievements, competitions, clubs, certifications, and extracurricular activities.
+
+8. **Contact Section:** Include my email, LinkedIn, GitHub, and other social links if provided. Use clickable links where applicable.
+
+9. **Footer:** Add a simple and stylish footer with my name and a copyright notice.
+
+### 4. Responsive Design
+The website must work properly on all screen sizes.
+
+- On desktop, use a spacious layout with multiple columns where appropriate.
+- On tablets, adjust the layout and spacing to maintain readability.
+- On mobile, stack content vertically, make buttons easy to tap, and prevent horizontal scrolling.
+- Ensure that text, images, cards, and navigation adapt smoothly to different screen sizes.
+
+### 5. Content and Personalization
+Use only the personal details I provide.
+
+Do not invent my achievements, work experience, skills, project results, or contact information.
+
+If any information is missing, use a clearly marked placeholder that I can replace later.
+
+Write the content in a natural, friendly, and professional tone. Avoid unnecessarily complicated language or generic AI-generated descriptions.
+
+### 6. Final Output
+Generate the complete working website with the following files:
+
+- `index.html` — the complete HTML structure.
+- `style.css` — all styling, responsive layouts, animations, and hover effects.
+
+Keep both files separate and make sure the HTML correctly links to the CSS file.
+
+The website must work when I open `index.html` in my browser, without requiring a server, installation, or additional setup.
+
+Before finishing, check that all sections are present, the layout is responsive, the HTML and CSS are valid, and no JavaScript or external frameworks have been used.
+
+Make the final result visually impressive, colourful, clean, professional, and easy for me to customize.
+
+### 7. My Personal Details
+
+I will provide my information below. Use it to personalize the entire portfolio.
+
+Name:
+Happy
+
+Professional headline:
+First-year B.Tech Computer Science and AI 
+
+About me:
+My name is Happy and I am currently studying in the First year of B.Tech CS and AI in
+ Newton School of Technology partnered with Rishihood University. I have completed my 
+ Class 10th with 93.4% from CBSE Board then I enrolled in Banasthali University for
+  pursuing Senior Secondary Education and I got 80.1%. I have participated in SIH,2026
+   and got selected for nationals and also participated in E-Summit and became 2nd runner-up
+ in the E_Summit of DCRUST University. Currently I am exploring Robotics and my first bot which
+  is Spider Bot.
+
+Education:
+[College, degree, year]
+
+Skills:
+[Your technical and non-technical skills]
+
+Projects:
+[Project names, descriptions, and technologies]
+
+Achievements:
+[Your achievements and certifications]
+
+Clubs and activities:
+[Robotics, E-cell, Society for Aerospace Science and Technology]
+
+Interests:
+[poetry, making art, working on hardware, content creation]
+
+Contact details:
+[Email, GitHub, LinkedIn, and other links]
+
+Preferred colour palette:
+[Your preferred colours, or let Antigravity choose a suitable palette]
+
+Additional design preferences:
+[Anything else you want included]
+
+Use the details above to create a complete, personalized portfolio that reflects my identity and goals.
+
+My name is Happy and I am currently studying in the First year of B.Tech CS and AI in
+ Newton School of Technology partnered with Rishihood University. I have completed my 
+ Class 10th with 93.4% from CBSE Board then I enrolled in Banasthali University for
+  pursuing Senior Secondary Education and I got 80.1%. I have participated in SIH,2026
+   and got selected for nationals and also participated in E-Summit and became 2nd runner-up
+ in the E_Summit of DCRUST University. Currently I am exploring Robotics and my first bot which
+  is Spider Bot.
